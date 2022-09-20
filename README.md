@@ -12,6 +12,11 @@ npm run serve
 
 ### Compiles and minifies for production
 ```
+nano vue.config.js
+// vue.config.js
+module.exports = {
+  publicPath: '/~a12345/LAB99/dist/'
+}
 npm run build
 ```
 
