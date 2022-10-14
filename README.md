@@ -27,7 +27,7 @@ npm run lint
 
 ### Open project in browser at URL
 ```
-http://all.deei.fct.ualg.pt/~a12345/LAB99/dist/
+http://daw.deei.fct.ualg.pt/~a12345/LAB99/dist/
 ```
 
 ### Customize configuration
